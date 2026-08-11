@@ -1,1 +1,2 @@
-# 9magnesiumcs3
+Yuan Ezekiel R. Ecal
+9-Magnesium
