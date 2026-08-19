@@ -6,6 +6,6 @@
 ## Activities
 
 ### Computational Thinking Skills
-[View my Chinese Zodiac Program Source Code](q1ctskillsMagnesiumEcal.py)
-[VIew my Chinese Zodiac Exercise Documentation](q1/zodiacMagnesiumEcal.md)
-[View my Computational Thinking Excercise](q1/ctskillsMagnesiumEcal.md)
+* [View my Chinese Zodiac Program Source Code](q1ctskillsMagnesiumEcal.py)
+* [VIew my Chinese Zodiac Exercise Documentation](q1/zodiacMagnesiumEcal.md)
+* [View my Computational Thinking Excercise](q1/ctskillsMagnesiumEcal.md)
