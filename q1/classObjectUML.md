@@ -23,3 +23,6 @@
 - The name, if the fragrance doesnt have a name, how will you be able to identify it, many brands have many fragrances, many fragrances haf similar projections, and almost all fragrances follow the usual 100ml size.
 ### Which method is the most useful? Why?
 - The spray method, since a fragrance is supposed to be sprayed on yourself and to be smnelt by others, so what is it's use if it is only smelled by yourself. 
+
+## Design Revision
+No major changes were needed from my original design.
