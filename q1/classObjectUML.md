@@ -18,7 +18,7 @@
 ![Class Diagram](<Screenshot 2026-09-02 215331.png>)
 ## Design Explanation
 ### Why did you choose this class?
-- I chose this class since it's a class i know will be very fun, but not only did I choose it because it's fun, but because I know I'll be able to learn a lot.
+- I chose this class since it's a class I know will be very fun, but not only did I choose it because it's fun, but because I know I'll be able to learn a lot.
 ### Which property is the most important? Why?
 - The name, if the fragrance doesnt have a name, how will you be able to identify it, many brands have many fragrances, many fragrances haf similar projections, and almost all fragrances follow the usual 100ml size.
 ### Which method is the most useful? Why?

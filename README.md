@@ -13,3 +13,5 @@
 * [View my OOP Act](q1/classObjectUML.md)
 * [View my Class Implementation](q1/classImplementation.py)
 * [View my Class Attributes and Methods](q1/classAttributesMethods.md)
+* [View my Class Relationships](q1/classRelationships.md)
+* [View my Class Relationships Code](q1/classRelationships.py)
