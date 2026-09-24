@@ -15,3 +15,5 @@
 * [View my Class Attributes and Methods](q1/classAttributesMethods.md)
 * [View my Class Relationships](q1/classRelationships.md)
 * [View my Class Relationships Code](q1/classRelationships.py)
+* [View my Advanced Class Relationships](q1/advancedRelationships.md)
+* [View my Advanced Class Relationships Code](q1/advancedRelationships.py)
