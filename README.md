@@ -17,3 +17,7 @@
 * [View my Class Relationships Code](q1/classRelationships.py)
 * [View my Advanced Class Relationships](q1/advancedRelationships.md)
 * [View my Advanced Class Relationships Code](q1/advancedRelationships.py)
+
+# Quarter 2
+
+## Activities

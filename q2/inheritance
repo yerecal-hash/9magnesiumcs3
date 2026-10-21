@@ -1,0 +1,51 @@
+class Publication:
+  def _init_ (self, book, author)
+    selft.title = title
+    self.author = author
+
+  def get_title(self):
+    return self.title
+
+  def get_author(self):
+    return self.author
+
+  def set_title(title):
+    self.title = title
+
+  def set_author(author):
+    self.author = author
+
+  def display_info(self):
+    print(f"Title: (self.title)")
+    print(f"Author: (self.author)")
+
+class Book:
+  def _init_(self):
+    self.title = title
+    self.author = author
+    self.number_pages = number_pages
+
+  def get_number_pages(self):
+    return self.number_pages
+
+  def set_number_pages(self):
+    if number_of_pages > 0:
+      self.number_pages = number_pages
+
+class Magazine:
+  def _init_(self):
+    self.title = title
+    self.author = author
+    self.issue_number = issue_number
+
+  def get_issue_number(self):
+    return self.issue.number
+
+  def set_issue_number(self):
+    if issue_number > 0:
+      self.issue_number = issue_number
+
+pub1 = Publication("
+book1 = book
+
+if _name_ == "_main":
